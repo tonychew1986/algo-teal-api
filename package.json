@@ -1,0 +1,22 @@
+{
+  "name": "algo-teal-api",
+  "version": "1.0.0",
+  "description": "Algorand TEAL Backend =====================================",
+  "main": "4f8d6ddb-8b8d-4f7d-83b2-a1b517829512.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RockX-SG/algo-teal-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RockX-SG/algo-teal-backend/issues"
+  },
+  "homepage": "https://github.com/RockX-SG/algo-teal-backend#readme",
+  "dependencies": {
+    "algosdk": "^1.6.2"
+  }
+}
